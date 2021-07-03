@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">androidViews</string>
+    <string name="welcome_back">Welcome Back !</string>
+    <string name="enter_account">Please enter your account here</string>
+    <string name="dont_have" translatable="false">Don\'t have any account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="or_continue_with">Or continue with</string>
+    <string name="login">Login</string>
+    <string name="google">Google</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="forgot_password">Forgot password?</string>
+</resources>

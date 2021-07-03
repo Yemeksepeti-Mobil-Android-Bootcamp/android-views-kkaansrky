@@ -1,0 +1,2 @@
+rootProject.name = "androidViews"
+include ':app'
