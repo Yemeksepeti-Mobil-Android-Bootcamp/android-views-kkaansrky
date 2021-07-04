@@ -8,6 +8,9 @@
     <string name="login">Login</string>
     <string name="google">Google</string>
     <string name="password">Password</string>
-    <string name="email">Email</string>
+    <string name="email">Email or phone number</string>
     <string name="forgot_password">Forgot password?</string>
+    <string name="watch_live_streams_and_chat">Watch live streams and chat</string>
+    <string name="golive">Go live with a tocuh and share your passion with the world!</string>
+    <string name="get_started">Get started</string>
 </resources>
